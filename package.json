@@ -1,0 +1,12 @@
+{
+  "name": "emison-podcast-episode",
+  "version": "1.0.0",
+  "description": "Alexa Skill to Play Specific Podcast Episodes",
+  "main": "index.js",
+  "repository": "git@github.com:joemastersemison/emison-podcast-episode.git",
+  "author": "Joe Emison <joe@gobranch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.4.3"
+  }
+}
