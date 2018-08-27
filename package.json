@@ -7,6 +7,13 @@
   "author": "Joe Emison <joe@gobranch.com>",
   "license": "MIT",
   "dependencies": {
-    "rss-parser": "^3.4.3"
+    "elasticlunr": "^0.9.5",
+    "jsoncomp": "^1.6.1",
+    "rss-parser": "^3.4.3",
+    "sha.js": "^2.4.11",
+    "striptags": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
   }
 }

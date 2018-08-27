@@ -9,6 +9,9 @@
 # production
 /**/build
 
+# podcast cache
+/podcasts/cache
+
 # misc
 .DS_Store
 .env.local
